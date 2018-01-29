@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RKC Workout</string>
+    <string name="pref_title_pull_up">Max Weighted Pull Up</string>
+    <string name="pref_summary_pull_up">Max weight weighted pull up for 1 rep</string>
+    <string name="pref_title_front_squat">Max Double Front Squat</string>
+    <string name="pref_summary_front_squat">Max weight double front squat for 1 rep</string>
+    <string name="pref_title_double_clean_press">Max Double Clean and Press</string>
+    <string name="pref_summary_double_clean_press">Max weight double clean and press for 1 rep</string>
+    <string name="pref_title_single_leg_deadlift">Max Single Leg Deadlift</string>
+    <string name="pref_summary_single_leg_deadlift">Max weight single leg deadlift for 1 rep</string>
+    <string name="pref_title_double_kb_deadlift">Max Double KB Deadlift</string>
+    <string name="pref_summary_double_kb_deadlift">Max weight double kb deadlift for 1 rep</string>
+    <string name="pref_title_bent_press">Max Bent Press</string>
+    <string name="pref_summary_bent_press">Max weight bent press for 1 rep</string>
+</resources>
